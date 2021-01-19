@@ -1,0 +1,2 @@
+.App{display:grid;grid-template:repeat(3,70px)/auto;justify-content:start;grid-gap:10px;gap:10px;font-family:"Courier New",Courier,monospace}.App__buttons{grid-row-start:3}button{height:30px}
+/*# sourceMappingURL=main.097aae6b.chunk.css.map */
